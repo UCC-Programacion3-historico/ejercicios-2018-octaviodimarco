@@ -3,7 +3,7 @@
 
 int main() {
     std::cout << "Ejercicio 01/03\n" << std::endl;
-    int m=2, n=2;
+    int m=4, n=1;
 
     std::cout<<ackerman(m,n)<<std::endl;
 
